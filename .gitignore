@@ -1,10 +1,8 @@
 # Ignorar los entornos virtuales de python
-venv\
-env\
-.venv\
-.env\
-
 venv/
 env/
 .venv/
 .env/
+
+# Ignorar archivos python
+__pycache__/
